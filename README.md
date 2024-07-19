@@ -1,4 +1,4 @@
 # hamid-demo
 This is my first Git repository.
 <br>
-My name is Hamid.
+My name is Muhammad Hamid
